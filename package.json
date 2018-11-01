@@ -1,0 +1,22 @@
+{
+  "name": "hapi-example",
+  "version": "1.0.0",
+  "description": "hapi node",
+  "main": "index.js",
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "env2": "^2.2.2",
+    "hapi": "^17.6.0",
+    "hapi-pino": "^5.1.0",
+    "hapi-swagger": "^9.1.2",
+    "inert": "^5.1.0",
+    "joi": "^14.0.3",
+    "package": "^1.0.1",
+    "vision": "^5.4.1"
+  }
+}
