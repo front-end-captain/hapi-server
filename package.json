@@ -16,7 +16,12 @@
     "hapi-swagger": "^9.1.2",
     "inert": "^5.1.0",
     "joi": "^14.0.3",
+    "mysql2": "^1.6.1",
     "package": "^1.0.1",
+    "sequelize": "^4.41.0",
     "vision": "^5.4.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.2.0"
   }
 }
